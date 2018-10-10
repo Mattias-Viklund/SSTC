@@ -29,6 +29,9 @@ namespace SSTC
 
     }
 
+    /// <summary>
+    /// Splitter - Server component, Split
+    /// </summary>
     class Splitter
     {
 
